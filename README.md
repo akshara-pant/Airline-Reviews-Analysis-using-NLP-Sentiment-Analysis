@@ -50,16 +50,58 @@ The project follows a ten-stage pipeline:
 9. Rule-based recommendations
 10. LexRank text summarisation
 
-## Dashboard
+## Dashboard Preview
 
-The Streamlit dashboard contains six pages:
+### 1. Overview
 
-- **Overview:** Key metrics, trends, and topic sentiment
-- **Top Problems:** Complaint frequency and priority analysis
-- **Compare Airlines:** Side-by-side airline comparisons
-- **Airline Report Card:** Airline-specific insights and recommendations
-- **Review Analyser:** Analyses a review and predicts recommendation probability
-- **About SkyVoice:** Methodology and limitations
+![Overview page](<screenshots/Figure_1_Overview page.png>)
+
+Filters for airline, travel class, and year, with key metrics and a plain-language summary of 64,331 cleaned reviews.
+
+![Overview charts](screenshots/Figure_2_Overview_charts.png)
+
+Yearly recommendation trends, sentiment across 13 passenger-experience topics, and representative passenger comments.
+
+### 2. Complaint Analysis and Airline Comparison
+
+![Top Problems](screenshots/Figure_3_Top_Problems_page.png)
+
+Ranks high-priority issues using complaint frequency and their association with lower recommendation rates.
+
+![Compare Airlines](screenshots/Figure_4_Compare_Airlines_page.png)
+
+Compares American Airlines and Air India using recommendation rates and topic-level complaint rates.
+
+### 3. Airline Report and Recommendations
+
+![Airline Report Card](screenshots/Figure_5_Airline_Report_Card.png)
+
+Compares American Airlines' complaint rates against the average airline and highlights priority levels.
+
+![What to Fix First](screenshots/Figure_6_What_to_fix_first.png)
+
+Highlights the leading improvement priority, frequent complaint phrases, suggested actions, and LexRank summaries.
+
+### 4. Interactive Review Analysis
+
+![Review Analyser](screenshots/Figure_7_Review_Analyser.png)
+
+Analyses a mixed review, estimates recommendation probability, and highlights positive and negative parts of the text.
+
+![Aspect-Based Sentiment Analysis](screenshots/Figure_8_aspect_based_sentiment_analysis.png)
+
+Shows separate sentiment results for topics such as cabin crew, food, seats, communication, and delays.
+
+![Prediction Explanation](screenshots/Figure_9_Explanation.png)
+
+Explains words influencing the recommendation prediction and presents suggested actions for unhappy topics.
+
+### 5. Methodology and Reliability
+
+![About SkyVoice](<screenshots/Figure_10_About_page.png>)
+
+Summarises the workflow, analytical methods, reliability considerations, and project limitations.
+
 
 ## Installation
 
