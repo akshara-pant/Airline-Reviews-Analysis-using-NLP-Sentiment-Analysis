@@ -1,0 +1,14 @@
+topic,reviews with complaint,% of all reviews,recommend rate with complaint,recommend rate without,drop (points),priority score
+refund_compensation,7915,12.3,2.7,43.3,40.6,4.99
+ground_staff,11705,18.2,5.4,45.6,40.1,7.3
+cancellation,6114,9.5,3.6,41.9,38.3,3.64
+delay,11049,17.2,7.6,44.6,37.0,6.36
+value_fees,11528,17.9,8.3,44.8,36.5,6.53
+communication,8340,13.0,6.7,43.0,36.2,4.71
+boarding_checkin,9568,14.9,7.6,43.6,36.0,5.36
+baggage,9463,14.7,9.1,43.3,34.2,5.03
+cabin_crew,4968,7.7,7.2,40.9,33.6,2.59
+seat,8500,13.2,11.4,42.3,30.9,4.08
+food,6060,9.4,11.1,41.1,30.0,2.82
+entertainment,2434,3.8,16.2,39.1,22.9,0.87
+wifi,657,1.0,22.1,38.4,16.4,0.16

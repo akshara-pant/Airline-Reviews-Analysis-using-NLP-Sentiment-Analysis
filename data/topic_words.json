@@ -1,0 +1,184 @@
+{
+  "delay": {
+    "words": [
+      "delay",
+      "postpone",
+      "reschedule",
+      "punctual"
+    ],
+    "phrases": [
+      "be late",
+      "arrive late",
+      "run late",
+      "depart late",
+      "hour late",
+      "hour delay",
+      "on time",
+      "wait hour",
+      "wait for hour"
+    ]
+  },
+  "cancellation": {
+    "words": [
+      "cancel",
+      "cancellation"
+    ],
+    "phrases": []
+  },
+  "baggage": {
+    "words": [
+      "bag",
+      "baggage",
+      "luggage",
+      "suitcase"
+    ],
+    "phrases": [
+      "carry on"
+    ]
+  },
+  "boarding_checkin": {
+    "words": [
+      "board",
+      "gate",
+      "queue",
+      "security",
+      "immigration"
+    ],
+    "phrases": [
+      "check in"
+    ]
+  },
+  "cabin_crew": {
+    "words": [
+      "crew",
+      "attendant",
+      "steward",
+      "stewardess",
+      "purser",
+      "hostess"
+    ],
+    "phrases": [
+      "cabin staff",
+      "cabin service",
+      "flight attendant"
+    ]
+  },
+  "ground_staff": {
+    "words": [
+      "agent",
+      "counter",
+      "desk"
+    ],
+    "phrases": [
+      "ground staff",
+      "ground crew",
+      "ground service",
+      "airport staff",
+      "gate agent",
+      "check in staff",
+      "customer service",
+      "customer care",
+      "customer support",
+      "call center",
+      "call centre",
+      "service desk"
+    ]
+  },
+  "seat": {
+    "words": [
+      "seat",
+      "legroom",
+      "recline",
+      "cramp"
+    ],
+    "phrases": [
+      "leg room",
+      "lie flat"
+    ]
+  },
+  "food": {
+    "words": [
+      "food",
+      "meal",
+      "snack",
+      "drink",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "catering",
+      "wine",
+      "coffee",
+      "beverage"
+    ],
+    "phrases": []
+  },
+  "entertainment": {
+    "words": [
+      "entertainment",
+      "ife",
+      "screen",
+      "movie",
+      "headphone",
+      "film"
+    ],
+    "phrases": []
+  },
+  "wifi": {
+    "words": [
+      "wifi",
+      "internet",
+      "connectivity"
+    ],
+    "phrases": [
+      "wi fi"
+    ]
+  },
+  "value_fees": {
+    "words": [
+      "price",
+      "fare",
+      "cost",
+      "fee",
+      "expensive",
+      "cheap",
+      "overpriced",
+      "charge",
+      "worth",
+      "value",
+      "money"
+    ],
+    "phrases": []
+  },
+  "refund_compensation": {
+    "words": [
+      "refund",
+      "compensation",
+      "compensate",
+      "reimburse",
+      "reimbursement",
+      "voucher",
+      "coupon"
+    ],
+    "phrases": [
+      "money back",
+      "travel credit"
+    ]
+  },
+  "communication": {
+    "words": [
+      "communicate",
+      "communication",
+      "inform",
+      "information",
+      "update",
+      "announce",
+      "announcement",
+      "notify",
+      "notification",
+      "explanation",
+      "explain",
+      "info"
+    ],
+    "phrases": []
+  }
+}

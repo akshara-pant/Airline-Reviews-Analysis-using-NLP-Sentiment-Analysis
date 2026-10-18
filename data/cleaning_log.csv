@@ -1,0 +1,6 @@
+step,rows_remaining,rows_removed
+Original file,64740,0
+After removing empty reviews,64593,147
+After removing reviews under 10 words,64414,179
+After removing rows without a yes/no label,64413,1
+After removing duplicate reviews,64331,82
